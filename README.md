@@ -1,4 +1,4 @@
-# tkinter-basic-gui-calculator
+# tkinter basic gui calculator
 
 Basic python tkinter gui calculator
 
